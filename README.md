@@ -24,6 +24,10 @@
     <a href="https://reactnative.dev/" target="_blank"> 
         <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="flutter" width="40" height="40"/> 
     </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    </a>
   <!-- React -->
     <a href="https://reactjs.org" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
@@ -76,10 +80,6 @@
     <!-- Visual Studio Code -->
     <a href="https://code.visualstudio.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
-    </a>
-    <!-- Cisco Packet Tracer -->
-    <a href="https://www.netacad.com/courses/packet-tracer/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="packet tracer" width="40" height="40"/>
     </a>
 </p>
 
