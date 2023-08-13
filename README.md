@@ -84,7 +84,6 @@
 </p>
 
 ### 📱 React Native Apps Developed
-![MergedImages](https://user-images.githubusercontent.com/69311087/216892016-8d3155da-0551-43a8-9f91-d2a6ec9ad123.png)
 
 ![Google Pixel 4 XL Presentation (2)-min](https://user-images.githubusercontent.com/69311087/216820375-95f162f9-a204-438a-a211-0646909ef093.png)
 
@@ -94,11 +93,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-asghar&show_icons=true&locale=en&layout=compact" alt="a-asghar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-rafayy&show_icons=true&locale=en&layout=compact" alt="a-rafayy" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-asghar&show_icons=true&locale=en" alt="a-asghar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rafayy&show_icons=true&locale=en" alt="a-rafayy" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-asghar&" alt="a-asghar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rafayy&" alt="a-rafayy" /></p>
