@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing my masters degree at Bishops University, Sherbrooke, QC
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/abdul-rafay-b41742205/)**, **[Email](abdul.rafayb11@gmail.com)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/abdul-rafay-b41742205/)**, **[Email](mailto:abdul.rafayb11@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
